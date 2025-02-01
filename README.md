@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 Reach out to me: vaibhavkadam9876@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvaibhav8788&label=Profile%20views&color=0e75b6&style=flat" alt="mrvaibhav8788" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvaibhav8788" alt="mrvaibhav8788" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
