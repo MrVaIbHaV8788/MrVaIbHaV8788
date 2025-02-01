@@ -5,18 +5,21 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there 👋, I'm vaibhav kadam</h1>
 <h3 align="center">A passionate Data Entusiast currently doing an intership with TechnoColabs</h3>
+I hold a PGP in Data Science from the Great Lakes Institute of Management, where I developed a strong analytical mindset to derive actionable insights from data. My expertise combines technical proficiency in data science tools with a broad understanding of economics, geography, political science, and psychology. This unique blend of skills enables me to analyse data from multiple perspectives, uncovering deeper insights and driving data-driven decisions. 
 
-- 👀 I’m interested in using data science concepts in consulting.
-- 🌱 I’m currently learning NLP, Deep learning, time series, GenAi
-- 💞️ I’m looking to collaborate on data science progects and hackathons.
+At Technocolabs Softwares, I specialise in dataset preprocessing and developing binary classification models to predict loan defaults, strengthening Bondora's P2P lending platform. My passion for extracting meaningful insights from data drives every project, ensuring impactful and data-driven financial solutions.
 
-- 👯 I’ve previously worked with peel-works as human resource analyst.
- 
-- Recently i've did virtual data science internship with BCG and technocolab software company
+My technical skills include :
 
-- 😄 Words that describe me - Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.
-- - 🔭 I’m currently working on **Binary Classification/Pedictive Modelling**
-- 📫 Reach out to me: vaibhavkadam9876@gmail.com
+- Machine Learning, Data Analytics, Tableau
+- Natural Language Processing (NLP)
+- ETL Pipeline, Wheater APIs
+- SQL, MySQL, MongoDB
+- Python
+- HTML, CSS
+- Github, Kaggle
+- Technical Documentation
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvaibhav8788&label=Profile%20views&color=0e75b6&style=flat" alt="mrvaibhav8788" /> </p>
 
 
@@ -38,4 +41,14 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaibhav8788&show_icons=true&locale=en&theme=dark" alt="mrvaibhav8788" /></p>
 
+- 👀 I’m interested in using data science concepts in consulting.
+- 🌱 I’m currently learning NLP, Deep learning, time series, GenAi
+- 💞️ I’m looking to collaborate on data science progects and hackathons.
 
+- 👯 I’ve previously worked with peel-works as human resource analyst.
+ 
+- Recently i've did virtual data science internship with BCG and technocolab software company
+
+- 😄 Words that describe me - Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.
+- - 🔭 I’m currently working on **Binary Classification/Pedictive Modelling**
+- 📫 Reach out to me: vaibhavkadam9876@gmail.com
