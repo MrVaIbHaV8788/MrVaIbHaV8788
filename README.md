@@ -45,7 +45,7 @@ My technical skills include :
 - 🌱 I’m currently learning NLP, Deep learning, time series, GenAi
 - 💞️ I’m looking to collaborate on data science progects and hackathons.
 
-- 👯 I’ve previously worked with peel-works as human resource analyst.
+- 👯 I’ve previously worked with peel-works as human resource analyst & then did Data Science internship with BCG.
  
 - Recently i've did virtual data science internship with BCG and technocolab software company
 
