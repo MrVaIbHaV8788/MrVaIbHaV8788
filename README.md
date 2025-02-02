@@ -50,5 +50,5 @@ My technical skills include :
 - Recently i've did virtual data science internship with BCG and technocolab software company
 
 - 😄 Words that describe me - Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.
-- - 🔭 I’m currently working on **Binary Classification/Pedictive Modelling**
+- - 🔭 I’m currently working on **NLP**
 - 📫 Reach out to me: vaibhavkadam9876@gmail.com
