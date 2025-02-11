@@ -4,7 +4,7 @@ MrVaIbHaV8788/MrVaIbHaV8788 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi there 👋, I'm vaibhav kadam</h1>
-<h3 align="center">A passionate Data Entusiast currently doing an intership with TechnoColabs</h3>
+<h3 align="center">A passionate Data Entusiast currently doing an intership with TechnoColabs software</h3>
 I hold a PGP in Data Science from the Great Lakes Institute of Management, where I developed a strong analytical mindset to derive actionable insights from data. My expertise combines technical proficiency in data science tools with a broad understanding of economics, geography, political science, and psychology. This unique blend of skills enables me to analyse data from multiple perspectives, uncovering deeper insights and driving data-driven decisions. 
 
 At Technocolabs Softwares, I specialise in dataset preprocessing and developing binary classification models to predict loan defaults, strengthening Bondora's P2P lending platform. My passion for extracting meaningful insights from data drives every project, ensuring impactful and data-driven financial solutions.
